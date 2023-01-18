@@ -61,47 +61,47 @@ assign carry = ((a&b)|(b&c)|(c&a));
 endmodule
 ```
 
-### Output:
-Logic symbol & Truthtable
+# Output:
+## Logic symbol & Truthtable
 
 
 
-HALF ADDER :
+### HALF ADDER :
 
 
 
 ![](/HALF1.png)
 
-FULL ADDER :
+### FULL ADDER :
 
 
 
 ![](/FULL1.png)
-### RTL realization:
+## RTL realization:
 
 
 
-HALF ADDER :
+### HALF ADDER :
 
 
 ![](/OUTPUT1.png)
 
-FULL ADDER :
+### FULL ADDER :
 
 
 ![](/output2.png)
 
-### TIMING DIAGRAM :
+## TIMING DIAGRAM :
 
-HALF ADDER :
+### HALF ADDER :
 
 ![](/HALF2.png)
 
-FULL ADDER :
+### FULL ADDER :
 
 ![](/FULL2.png)
 
 
 
-### Result:
+## Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
